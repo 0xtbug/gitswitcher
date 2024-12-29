@@ -71,7 +71,7 @@ gs del 1
 ```
 
 ## Set up github multiple accounts
-Here is the [link](https://docs.github.com/en/authentication/managing-your-authentication-settings/managing-your-personal-access-tokens-for-github-apps) to set up multiple accounts.
+Here is the [link](https://gist.github.com/oanhnn/80a89405ab9023894df7) to set up multiple accounts.
 
 ## License
 
