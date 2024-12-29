@@ -1,5 +1,5 @@
 {
-  "name": "gitswitcher",
+  "name": "git-account-switcher",
   "version": "1.0.0",
   "description": "A CLI tool to manage multiple GitHub accounts easily",
   "main": "index.js",
