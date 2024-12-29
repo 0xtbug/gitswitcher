@@ -12,7 +12,7 @@ A command-line tool to manage multiple GitHub accounts easily. Switch between di
 ## Installation as a global npm package
 
 ```bash
-npm install -g gitswitcher
+npm install -g git-account-switcher
 ```
 
 ## Manual Installation
