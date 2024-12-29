@@ -4,7 +4,7 @@
   "description": "A CLI tool to manage multiple GitHub accounts easily",
   "main": "index.js",
   "bin": {
-    "gs": "./index.js"
+    "gs": "index.js"
   },
   "type": "module",
   "scripts": {
