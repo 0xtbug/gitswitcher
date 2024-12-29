@@ -1,0 +1,40 @@
+{
+  "name": "gitswitcher",
+  "version": "1.0.0",
+  "description": "A CLI tool to manage multiple GitHub accounts easily",
+  "main": "index.js",
+  "bin": {
+    "gs": "./index.js"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xtbug/gitswitcher.git"
+  },
+  "keywords": [
+    "git",
+    "github",
+    "account-switcher",
+    "cli",
+    "git-config",
+    "github-account",
+    "developer-tools"
+  ],
+  "author": "0xtbug",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/0xtbug/gitswitcher/issues"
+  },
+  "homepage": "https://github.com/0xtbug/gitswitcher#readme",
+  "dependencies": {
+    "commander": "^11.1.0",
+    "conf": "^12.0.0",
+    "table": "^6.8.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
